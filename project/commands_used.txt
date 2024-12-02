@@ -1,0 +1,5 @@
+mkdir -p project/{imagees,documents,scripts,logs}
+echo 'This is the first sample file. Linux is an Operating System.' > lorem1.text
+mv *.txt documents/
+chmod -R 755 .
+wget https://picsum.photos/200 -O image.jpg

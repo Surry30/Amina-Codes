@@ -1,0 +1,3 @@
+Created directory structure and organised files.
+Added text files and dowloaded sample images.
+Moved text files to document folder and images folder.
